@@ -234,7 +234,14 @@ tensorflow-addons
 
 ## 📬 Contact
 
-For collaboration or questions, reach out via [LinkedIn](https://www.linkedin.com/) or open an issue in this repository.
+For collaboration or questions, reach out via [LinkedIn](https://www.linkedin.com/in/mayuk-sarkar-088726210/) or open an issue in this repository.
+
+---
+---
+
+## ✍️ Author
+
+**Mayuk Sarkar** – [@mayuksarkar](https://github.com/mks2002)
 
 ---
 
